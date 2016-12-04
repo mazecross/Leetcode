@@ -26,7 +26,7 @@ Return:
     "FizzBuzz"
 ]
 */
-//xxy 2016.12.4 Manchester
+//xxy 2016.12.4 UoM
 public class Solution {
     public List<String> fizzBuzz(int n) {
         ArrayList<String> result = new ArrayList<String>();
