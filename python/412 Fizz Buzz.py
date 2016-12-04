@@ -25,6 +25,7 @@ Return:
     "FizzBuzz"
 ]
 '''
+#xxy 2016.12.4 UoM
 class Solution(object):
     def fizzBuzz(self, n):
         """
