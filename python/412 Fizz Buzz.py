@@ -49,4 +49,4 @@ class Solution(object):
                 
                 a.append(str(i))
                 
-        print a 
+        return a 
